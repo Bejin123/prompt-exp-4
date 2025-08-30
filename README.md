@@ -1,8 +1,7 @@
 # prompt-exp-4
 ### Name: Bejin B
 ### Reg no: 212222230021
-## 📑 Scenario-Based Report Development
-### Case Study: Smart Sensors in Urban Pipelines
+## SCENARIO-BASED REPORT DEVELOPMENT UTILIZING DIVERSE PROMPTING TECHNIQUES – Case study 2 with Comparative Analysis Prompt, Comparative Analysis Prompt and Prompt Size Limitations
 ### Aim of the Experiment
 
 To investigate how AI-powered smart sensors can detect and prevent water leakage in urban pipelines through real-time monitoring and predictive analytics.
